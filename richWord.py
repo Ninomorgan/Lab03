@@ -5,6 +5,7 @@ class RichWord:
 
     @property
     def corretta(self):
+
         # print("getter of parola called" )
         return self._corretta
 
